@@ -7,15 +7,16 @@ by tag so they never collide:
 
 | Product | What it is | Release tags |
 |---|---|---|
-| **CCC** | Control Claude Code from your mobile device | `v*` |
+| **CCC** | Control your AI coding agents from your mobile device | `v*` |
 | **C3Sync** | Cross-machine, end-to-end-encrypted sync of AI coding-agent sessions and files | `c3sync-v*` |
 
 ---
 
 ## CCC — Code Chat Connect
 
-Control Claude Code from your mobile device: monitor your AI coding sessions,
-respond to prompts, and manage your development workflow on the go.
+Control your AI coding agents — Claude Code, Codex, OpenCode, and Pi — from
+your mobile device: monitor sessions, respond to prompts, and manage your
+development workflow on the go.
 
 ### Quick install
 
